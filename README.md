@@ -10,6 +10,10 @@ Input : The player must enter "r" for rock , "s" for scissors ,"p" for paper.
 
 Output : computer and player choose (r)or(s)or(p) and reveal the winner or draw .
 
+If the player write wrong input ,the program stop , and return: "Invalid Input. Try again..." or if you, just want to quit from game ! :)
+
+
+
                        The rules are :
 
 1.Rock beats scissors (the rock is breaking the scissors).
