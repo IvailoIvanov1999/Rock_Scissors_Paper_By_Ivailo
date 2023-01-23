@@ -36,6 +36,9 @@ player choice --- pc choice --- result
 Source Code :
 
    https://raw.githubusercontent.com/IvailoIvanov1999/Rock_Scissors_Paper_By_Ivailo/main/rock_scissors_paper.py
+   
+Replit direct link to play game from Web browser:
+   https://replit.com/@IvailoIvanov199/Rock-Scissors-Paper#main.py
  
    I decided to add counter of wins and loses and draws ,and i added  a colors on each .
    
